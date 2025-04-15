@@ -1,0 +1,6 @@
+﻿Designator	Footprint	Mid X	Mid Y	Ref X	Ref Y	Pad X	Pad Y	Layer	Rotation	Comment
+"1"	"25X48MM_NFC_ANTENNA"	"62.47mm"	"-25.55mm"	"74.3mm"	"-25.91mm"	"60.5mm"	"-26.19mm"	"T"	"90"	"25X48MM_NFC_ANTENNA"
+"C1"	"C0603"	"50.93mm"	"-25.02mm"	"50.93mm"	"-25.02mm"	"50.93mm"	"-24.32mm"	"T"	"270"	"220nF"
+"LED1"	"LED0805-R-RD"	"4.32mm"	"-2.92mm"	"4.32mm"	"-2.92mm"	"5.37mm"	"-2.92mm"	"T"	"0"	"17-21SUYC/TR8"
+"R1"	"R0603"	"47.37mm"	"-25.02mm"	"47.37mm"	"-25.02mm"	"47.37mm"	"-24.27mm"	"T"	"270"	"47Ω"
+"U1"	"XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH"	"54.48mm"	"-24.89mm"	"54.48mm"	"-24.89mm"	"54.98mm"	"-24.29mm"	"T"	"270"	"NT3H2111W0FHKH"
