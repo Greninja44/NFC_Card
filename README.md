@@ -17,7 +17,7 @@ This is a smart business card designed by me :)
 ## 🧾 Schematic
 
 You can find the circuit schematic here:  
-[Schematic PDF](./Schematic_ADARSH_2025-04-15.pdf)
+[Schematic PDF](./Schematic.pdf)
 
 ## 🔧 Features
 
