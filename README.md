@@ -1,6 +1,6 @@
 # ✈️ Sukhoi Themed Smart PCB Business Card
 
-This is a smart business card designed in the shape of a Sukhoi fighter jet. It includes social media links, a QR code, and white LEDs to make it look more attractive.
+This is a smart business card designed by me :) 
 
 ## 📸 Preview
 
