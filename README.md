@@ -7,11 +7,9 @@ This is a smart business card designed by me :)
 ### PCB Design
 ![Screenshot 2025-04-15 140111](https://github.com/user-attachments/assets/9a94e2d8-3f0a-4c03-8ec8-20d2c991ff95)
 
-### Back
-![Screenshot 2025-04-15 140137](https://github.com/user-attachments/assets/073a02da-dc29-45f9-82fc-9ea70060887f)
+## Board:
+![Front](https://github.com/user-attachments/assets/2fe4359b-d65b-4a48-9ddb-06134e86ad1d)
 
-### Front
-![Screenshot 2025-04-15 140127](https://github.com/user-attachments/assets/9149c91e-c23c-4090-8f2e-38c61bd32fc7)
 
 
 ## 🧾 Schematic
